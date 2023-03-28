@@ -16,7 +16,7 @@ const Navbar = () => {
 <div className="relative">
 
 <a aria-label="Home" className="block h-16 w-16 origin-left pointer-events-auto"  href="/">
-<img src='/pp.jpg' alt="" sizes="4rem" width="512" height="512" decoding="async" data-nimg="1" className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" />
+<img src='images/pp.jpg' alt="" sizes="4rem" width="512" height="512" decoding="async" data-nimg="1" className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" />
 </a>
 </div>
 </div>
